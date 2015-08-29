@@ -1,5 +1,4 @@
 var log = require('logger')('procevent');
-var util = require('util');
 var uuid = require('node-uuid');
 var events = require('events');
 

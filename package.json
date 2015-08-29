@@ -6,7 +6,10 @@
         "name": "serandives",
         "email": "serandives@gmail.com"
     },
-    "dependencies": {},
+    "dependencies": {
+        "node-uuid": "1.*",
+        "logger": "serandules/logger#master"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/serandules/procevent.git"
